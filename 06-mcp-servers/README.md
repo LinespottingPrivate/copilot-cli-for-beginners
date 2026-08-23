@@ -967,6 +967,8 @@ For most of this course, `/mcp show` is all you need. The other commands become 
 6. **Custom servers** let you connect any API (optional, covered in the appendix guide)
 
 > 📋 **Quick Reference**: See the [GitHub Copilot CLI command reference](https://docs.github.com/en/copilot/reference/cli-command-reference) for a complete list of commands and shortcuts.
+>
+> Optional: pair a phone **spectator** with [Build Remote Agent](gbr-pair.md) (`gbr-mcp` / `127.0.0.1:8788`). Not affiliated with xAI or GitHub.
 
 ---
 
